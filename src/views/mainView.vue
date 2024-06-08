@@ -1,9 +1,6 @@
 <template>
     <div class="app">
-<<<<<<< HEAD
         <h1>Edited</h1>
-=======
->>>>>>> new-origin/main
         <h5>Weather App</h5>
         <div class="mainn" v-bind:class="{ warm: state_weather }">
             <div class="search-box">
